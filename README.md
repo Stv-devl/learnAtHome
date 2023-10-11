@@ -4,5 +4,4 @@
 
 # Liens 
 
-Figma : https://www.figma.com/file/0eLNaWos4Zd2H5TKKxVpjs/Learn%40Home?type=design&node-id=0-1&mode=design
-
+- Lien figma : [design]( https://www.figma.com/file/0eLNaWos4Zd2H5TKKxVpjs/Learn%40Home?type=design&node-id=0-1&mode=design)
