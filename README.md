@@ -8,4 +8,6 @@ Réaliser dans le cadre de la formation OpenclassRooms "Développeur d'applicati
 
 # Liens 
 
--[maquette Figma]( https://www.figma.com/file/0eLNaWos4Zd2H5TKKxVpjs/Learn%40Home?type=design&node-id=0-1&mode=design)
+[maquette Figma]( https://www.figma.com/file/0eLNaWos4Zd2H5TKKxVpjs/Learn%40Home?type=design&node-id=0-1&mode=design)
+
+[Kanpan](https://www.notion.so/Page-de-connexion-ac20322430f4423aa0b7e1b62a87fab4?pvs=4)
